@@ -1,0 +1,1 @@
+Lütfen kullanmak istediğiniz agaclar.txt dosyasını bu klasörün içine atın.
